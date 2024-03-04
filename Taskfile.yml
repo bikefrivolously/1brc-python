@@ -1,0 +1,13 @@
+version: '3'
+
+tasks:
+  run-small:
+    cmds:
+      - /usr/bin/time python3 1brc.py ../1brc/measurements_small.txt
+  run:
+    cmds:
+      - /usr/bin/time python3 1brc.py ../1brc/measurements.txt
+
+  test:
+    cmds:
+      - pytest
