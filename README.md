@@ -15,3 +15,7 @@ calculateAverages.py (12 CPU)
 obrc.py (v1)
 419.14user 2.43system 7:05.18elapsed 99%CPU (0avgtext+0avgdata 10624maxresident)k
 0inputs+0outputs (0major+9567minor)pagefaults 0swaps
+
+obrc.py (v2)
+1370.65user 10.08system 1:58.74elapsed 1162%CPU (0avgtext+0avgdata 17280maxresident)k
+0inputs+0outputs (0major+12008minor)pagefaults 0swaps
